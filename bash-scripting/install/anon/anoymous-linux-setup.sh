@@ -284,7 +284,7 @@ function show_menus()
 
   echo
   echo
-  echo -e "\e[40;38;5;82m [++] \e[30;48;5;82m  Ubuntu / Kali AnonSurf  \e[0m "
+  echo -e "\e[40;38;5;82m [++] \e[30;48;5;82m  Ubuntu  AnonSurf  \e[0m "
   echo
   echo
   echo -e "\e[32m[--]\e[0m \e[1m  Choose : Hit 'a' for - Install Need Repositories And Packages \e[0m"
