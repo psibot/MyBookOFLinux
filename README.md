@@ -13,7 +13,7 @@ Need to install Ubuntu !
  Need to install and Setup Bash And Vim For Shell Scripting  (tested on Ubuntu)
  
  * **Ubuntu Bash Setup**: ```$ sudo apt install vim vim* asciinema```
- * **Some Other Awesome Tools**: ```$ sudo apt install git python3 python3-pip rmlint-gui bleachbit curl wine64 wget vim sed netcat libxml2-utils nmap netcat wireshark tshark vim git gawk htop cmake gcc clang llvm rsync wireshark-dev nmap jq  powershell ```
+ * **Some Other Awesome Tools**: ```$ sudo apt install git python3 python3-pip rmlint-gui bleachbit curl wine64 wget vim sed netcat libxml2-utils nmap netcat wireshark tshark vim git gawk htop cmake gcc clang llvm rsync wireshark-dev nmap jq ```
 
 TOOLS That I use ... ask no q's - This is for WAN Examples (tested on Ubuntu)
 
