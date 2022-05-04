@@ -1,1 +1,40 @@
 * Voice AI with python3
+
+Windows 
+
+This, CMD as Administrator and run the following:
+
+```python3 -m pip install pipwin
+pipwin install pyaudio``` 
+
+
+```python3 -m pip install speechRecognition
+   python3 -m pip install pyttsx3
+   python3 -m pip install pywhatkit
+   python3 -m pip install wikipedia
+   python3 -m pip install pyjokes```
+
+
+```python3 -m pip install wolframalpha
+python3 -m pip install wikipedia
+python3 -m pip install SpeechRecognition
+python3 -m pip install ecapture
+python3 -m pip install ecapture==0.0.7
+python3 -m pip install opencv-python```
+
+```pip3 install pyAudio```
+```pip3 install portAudio```
+
+```pip3 install speechRecognition
+   pip3 install pyttsx3
+   pip3 install pywhatkit
+   pip3 install wikipedia
+   pip3 install pyjokes```
+
+
+```pip3 install wolframalpha
+pip3 install wikipedia
+pip3 install SpeechRecognition
+pip3 install ecapture
+pip3 install ecapture==0.0.7
+pip3 install opencv-python```
