@@ -140,10 +140,12 @@ if __name__ == '__main__':
 		elif 'open google' in query:
 			speak("Here you go to Google\n")
 			webbrowser.open("google.com")
+			continue
 
 		elif 'open stack overflow' in query:
 			speak("Here you go to Stack Over flow.Happy coding")
 			webbrowser.open("stackoverflow.com")
+			continue
 
 		elif 'play music' in query or "play song" in query:
 			speak("Here you go with music")
