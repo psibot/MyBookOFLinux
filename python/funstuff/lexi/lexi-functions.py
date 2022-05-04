@@ -58,10 +58,8 @@ def username():
 	speak(uname)
 	columns = shutil.get_terminal_size().columns
 	
-	#print("#####################".center(columns))
-	#print("Welcome Mr.", uname.center(columns))
+
 	print("Welcome Mr.", uname)
-	#print("#####################".center(columns))
 	
 	speak("How can i Help you, Sir")
 
