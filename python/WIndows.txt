@@ -1,0 +1,19 @@
+This, CMD as Administrator and run the following:
+
+```python3 -m pip install pipwin
+pipwin install pyaudio``` 
+
+
+```python3 -m pip install speechRecognition
+   python3 -m pip install pyttsx3
+   python3 -m pip install pywhatkit
+   python3 -m pip install wikipedia
+   python3 -m pip install pyjokes```
+
+
+```python3 -m pip install wolframalpha
+python3 -m pip install wikipedia
+python3 -m pip install SpeechRecognition
+python3 -m pip install ecapture
+python3 -m pip install ecapture==0.0.7
+python3 -m pip install opencv-python```
