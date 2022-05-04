@@ -154,7 +154,7 @@ if __name__ == '__main__':
 			random = os.startfile(os.path.join(music_dir, songs[1]))
 
 		elif 'the time' in query:
-			strTime = datetime.datetime.now().strftime("% H:% M:% S")
+			strTime = datetime.datetime.now().strftime('%I:%M %p')
 			speak(f"Sir, the time is {strTime}")
 
 		elif 'open opera' in query:
