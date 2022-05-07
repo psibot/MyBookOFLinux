@@ -33,8 +33,7 @@ function pause(){ # Pause enter
 }
 
 
-function users-sudo() # Setup Sudo without password
-{
+function users-sudo(){ # Setup Sudo without password
     clear
     echo
     echo -e "\e[40;38;5;82m [+] \e[30;48;5;82m This Will setup your sudo user    \e[0m"
@@ -54,14 +53,13 @@ function users-sudo() # Setup Sudo without password
 
   }
 
-  function install-setup()
-  {
+  function install-setup(){
       clear
       echo
       echo -e "\e[40;38;5;82m [+] \e[30;48;5;82m This Will install Software with APT in Silent Mode  \e[0m"
       echo
       echo
-          sleep 2
+      sleep 2
       echo
       echo -e "What  Software Do You want to install ? "
       echo
@@ -76,12 +74,11 @@ function users-sudo() # Setup Sudo without password
   	  echo  -e "*** \e[5m The Followin Software was installed  !!! \e[25m ***"
       apt search  $searchapt
       echo
-          sleep 5
-          pause
-          echo
+      sleep 5
+      pause
+      echo
       echo -e "Done"
       clear
-
     }
 
 
