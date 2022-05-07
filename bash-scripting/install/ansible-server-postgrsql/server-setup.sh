@@ -78,7 +78,7 @@ function install_psql()
     echo -e "\e[32m[-]\e[0m \e[1m   Just Type Version Number * 12 , 13 , 14 \e[0m"
     echo
     read versionpsql
-    sudo apt-get -y install postgresql-$versionpsql postgresql-client-$versionpsql libpq-dev postgresql-server-dev-$versionpsql python-dev python3-dev python3 python3-pip curl wget vim sed libxml2-utils nmap vim git gawk htop cmake gcc clang llvm rsync network-manager net-tools
+    sudo apt-get -y install postgresql-$versionpsql postgresql-client-$versionpsql libpq-dev postgresql-$versionpsql-repack postgresql-server-dev-$versionpsql python-dev python3-dev python3 python3-pip curl wget vim sed libxml2-utils nmap vim git gawk htop cmake gcc clang llvm rsync network-manager net-tools
     echo
     clear
     echo -e "\e[32m[*]\e[0m \e[1m Starting Postgresql Service  \e[0m"
