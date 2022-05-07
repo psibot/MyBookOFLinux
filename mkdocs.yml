@@ -1,0 +1,13 @@
+site_name: MyBookOFLinux
+
+
+nav:
+    - Home: index.md
+
+watch:
+- docs    
+
+theme:
+    name: readthedocs
+    highlightjs: true
+       
